@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Oleksandr</h1>
 <h3 align="center">Automation specialist @ Uber and Software Developer based in Poland</h3>
 
-- 🔭 I’m currently working on [Rent Finder Bot](https://github.com/kabust/rent-finder-bot)
+- 🔭 I’m currently working on [Niff Marketplace](https://github.com/kabust/niff-marketplace)
 
 - 🌱 I’m currently learning **Kafka and concurrent programming with python**
 
